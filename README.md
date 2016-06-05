@@ -2,4 +2,4 @@
 
 A simple calcuator for future value made in JavaScript.
 
-Made by Ben Walls
+View a live example at http://benawalls.com/future_value.php
