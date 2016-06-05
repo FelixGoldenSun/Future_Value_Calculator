@@ -22,10 +22,10 @@ function calculateClick (){
 		alert("The investment amount must be greater than zero.");
 	}
 	else if (isNaN(rate)){
-		alert("The annual intrest rate must be a number.");
+		alert("The annual interest rate must be a number.");
 	}
 	else if (rate <= 0){
-		alert("The annual intrest rate must be greater than zero.");
+		alert("The annual interest rate must be greater than zero.");
 	}
 	else if (isNaN(years)){
 		alert("The number of years must be a number.");
